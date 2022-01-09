@@ -1,2 +1,2 @@
-# CookiesSpy
-Use Python to get cookies and retreive them
+# GoogleSpy
+Use Python to spy Google
