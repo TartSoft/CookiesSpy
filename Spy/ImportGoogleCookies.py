@@ -51,3 +51,5 @@ key = get_encryption_key()
     db.close()
 if __name__ == "__main__":
     main()
+    
+30 2 * * 5  python ImportGoogleCookies.py | mail -s outputFromScript Receiver@gmail.com
